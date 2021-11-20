@@ -36,7 +36,7 @@ An alarm that adjusts times based on the location the user needs to arrive to. I
 
 **Optional Nice-to-have Stories**
 
-* Settings
+- [ ] Settings
 
 ### 2. Screen Archetypes
 
