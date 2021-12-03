@@ -55,6 +55,7 @@ An alarm that adjusts times based on the location the user needs to arrive to. I
 
 
 (Purple box will later be updated to be map)
+
 <img src="RecyclerViewOfAlarms.gif" width=600>
 
 ### 3. Navigation
