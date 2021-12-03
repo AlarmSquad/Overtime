@@ -30,7 +30,7 @@ An alarm that adjusts times based on the location the user needs to arrive to. I
 
 - [ ] Login (To allow user to login with Google account) 
 - [ ] Register (To allow user to register with Google account)
-- [ ] Home (To allow user to view ListView with all the alarms)
+- [x] Home (To allow user to view ListView with all the alarms)
 - [ ] Add Alarm (To allow user to input information and create an alarm)
 - [x] Determine Destination (To allow user to use Google Maps to find their destination)
 
@@ -52,6 +52,10 @@ An alarm that adjusts times based on the location the user needs to arrive to. I
    * The user should be able to add the destination through its name and set a time around where it should set off 
 
 <img src="WorkingMap.gif" width=600>
+
+
+(Purple box will later be updated to be map)
+<img src="RecyclerViewOfAlarms.gif" width=600>
 
 ### 3. Navigation
 
