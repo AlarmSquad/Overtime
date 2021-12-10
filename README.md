@@ -58,6 +58,8 @@ An alarm that adjusts times based on the location the user needs to arrive to. I
 
 <img src="RecyclerViewOfAlarms.gif" width=600>
 
+<img src="CreatingAlarms.gif" width=600>
+
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
