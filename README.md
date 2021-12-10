@@ -28,10 +28,8 @@ An alarm that adjusts times based on the location the user needs to arrive to. I
 
 **Required Must-have Stories**
 
-- [ ] Login (To allow user to login with Google account) 
-- [ ] Register (To allow user to register with Google account)
 - [x] Home (To allow user to view ListView with all the alarms)
-- [ ] Add Alarm (To allow user to input information and create an alarm)
+- [x] Add Alarm (To allow user to input information and create an alarm)
 - [x] Determine Destination (To allow user to use Google Maps to find their destination)
 
 **Optional Nice-to-have Stories**
